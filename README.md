@@ -1,3 +1,4 @@
+![CI](https://github.com/<ORG>/<REPO>/actions/workflows/ci.yml/badge.svg)
 # Project Title
 
 ## Overview
